@@ -6,7 +6,7 @@ conda env create -f environment.yml
 ```
 **Step 2. Download all processed fer2013 files from this link**
 ```
-https://www.dropbox.com/sh/owztar64nwrjpi2/AACn0kHhNUEfSBzlqduQp0wWa?dl=0
+https://1drv.ms/u/s!AmeTT2EpSz40kx2V9egbfDXJhGb3?e=ymCADi
 ```
 **The original dataset can be found from this link**
 ```
@@ -16,7 +16,7 @@ https://www.kaggle.com/competitions/challenges-in-representation-learning-facial
 
 **Step 4. Download pre-trained models from this link**
 ```
-https://www.dropbox.com/sh/p2fvna1d800fp5q/AACIkpNCprC4MO-jgeCKXXOua?dl=0
+https://1drv.ms/u/s!AmeTT2EpSz40hFdT1nRCWPBzQQ-x?e=zHZITm
 ```
 **Step 5. Put the pre-trained models in the following folder**
 ```
