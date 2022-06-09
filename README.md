@@ -33,6 +33,7 @@ bash train.sh
 bash test.sh
 ```
 **After running the above, the results will be saved at the main folder**
+
 **In order to check the accuracy and the confusion matrix open the following jupyter notebook**
 ```
 data_comparison.ipynb
